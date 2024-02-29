@@ -1,0 +1,17 @@
+a{
+    color: black;
+    text-decoration: none;
+    margin-left: 15px;
+     border: 1px solid black;
+     height:5vh;
+     
+}
+table {
+    border: 1px solid black;
+}
+table thead th{
+    border: 1px solid black;
+}
+table tbody tr td{
+    border: 1px solid black;
+}

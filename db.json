@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "Id": 1,
+      "Name": "Smartphone XYZ",
+      "Description": "Un smartphone haut de gamme avec des fonctionnalités avancées.",
+      "Category": "Smartphones",
+      "Price": 599.99,
+      "Quantity": 50
+    },
+    {
+      "Id": 2,
+      "Name": "Ordinateur Portable ABC",
+      "Description": "Un ordinateur portable léger et puissant pour un usage professionnel.",
+      "Category": "Ordinateurs portables",
+      "Price": 1299.99,
+      "Quantity": 3
+    },
+    {
+      "Id": 3,
+      "Name": "Kit d'Accessoires Électroniques",
+      "Description": "Un ensemble d'accessoires électroniques comprenant des câbles, des adaptateurs et des écouteurs.",
+      "Category": "Accessoires électroniques",
+      "Price": 49.99,
+      "Quantity": 100
+    }
+  ]
+}
